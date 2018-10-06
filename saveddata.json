@@ -1,0 +1,1228 @@
+{
+	"Practices": [
+		{
+			"Date": "2018-9-30",
+			"Data": [
+				{
+					"Player": "Panda He",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.7863187307575119,
+						0.34869128818674294
+					],
+					"Time": [
+						20,
+						15,
+						10,
+						998
+					]
+				},
+				{
+					"Player": "Panda He",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.5764248862923593,
+						0.17017469567008506
+					],
+					"Time": [
+						20,
+						36,
+						29,
+						762
+					]
+				},
+				{
+					"Player": "Panda He",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5858231181340826,
+						0.15349090197693946
+					],
+					"Time": [
+						20,
+						36,
+						35,
+						873
+					]
+				},
+				{
+					"Player": "Panda He",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.7487258033906189,
+						0.16516955756214138
+					],
+					"Time": [
+						20,
+						36,
+						42,
+						297
+					]
+				},
+				{
+					"Player": "",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.7487258033906189,
+						0.2669406990903295
+					],
+					"Time": [
+						20,
+						42,
+						25,
+						710
+					]
+				},
+				{
+					"Player": "Hongyang Zhou",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.3117080227504878,
+						0.12512845269859196
+					],
+					"Time": [
+						20,
+						42,
+						30,
+						900
+					]
+				},
+				{
+					"Player": "Zihan Ai",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.059522134997580585,
+						0.11678655585201916
+					],
+					"Time": [
+						20,
+						44,
+						5,
+						740
+					]
+				},
+				{
+					"Player": "Ben Song",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.16603542920377742,
+						0.17517983377802873
+					],
+					"Time": [
+						20,
+						44,
+						19,
+						561
+					]
+				},
+				{
+					"Player": "Liyan Ma",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.2286903081485991,
+						0.4454572916069874
+					],
+					"Time": [
+						20,
+						51,
+						0,
+						849
+					]
+				},
+				{
+					"Player": "",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.7800532428630297,
+						0.742428819344979
+					],
+					"Time": [
+						21,
+						49,
+						15,
+						638
+					]
+				},
+				{
+					"Player": "Bryan Yao",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.3994248532732381,
+						0.13347034954516476
+					],
+					"Time": [
+						21,
+						50,
+						31,
+						863
+					]
+				},
+				{
+					"Player": "Bryan Yao",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.9339418633611328,
+						0.16329447632406216
+					],
+					"Time": [
+						21,
+						51,
+						42,
+						662
+					]
+				},
+				{
+					"Player": "Hongyang Zhou",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.42707894254202555,
+						0.16329447632406216
+					],
+					"Time": [
+						21,
+						52,
+						53,
+						335
+					]
+				},
+				{
+					"Player": "Henry Wei",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.9214267295137474,
+						0.17829090782321075
+					],
+					"Time": [
+						21,
+						53,
+						21,
+						228
+					]
+				},
+				{
+					"Player": "Henry Wei",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.6507869600640389,
+						0.47655326763961003
+					],
+					"Time": [
+						21,
+						53,
+						48,
+						418
+					]
+				},
+				{
+					"Player": "Bryan Yao",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.37858279888340723,
+						0.1766246376566387
+					],
+					"Time": [
+						21,
+						58,
+						46,
+						534
+					]
+				},
+				{
+					"Player": "Bryan Yao",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.6007264246744974,
+						0.33492030348098467
+					],
+					"Time": [
+						22,
+						4,
+						5,
+						36
+					]
+				},
+				{
+					"Player": "Henry Wei",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.18929139944170362,
+						0.3765770576452862
+					],
+					"Time": [
+						22,
+						4,
+						14,
+						422
+					]
+				},
+				{
+					"Player": "Liyan Ma",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.2862836867589402,
+						0.4215663521427319
+					],
+					"Time": [
+						22,
+						7,
+						0,
+						874
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.25282595345786385,
+						0.21576718467873954
+					],
+					"Time": [
+						16,
+						11,
+						10,
+						29
+					]
+				},
+				{
+					"Player": "Jamie Z",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.5935913689880281,
+						0.2692908273897447
+					],
+					"Time": [
+						16,
+						11,
+						37,
+						334
+					]
+				},
+				{
+					"Player": "Jamie Z",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5009408643047116,
+						0.41648084484500886
+					],
+					"Time": [
+						16,
+						12,
+						11,
+						202
+					]
+				},
+				{
+					"Player": "Jamie Z",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5040815593787223,
+						0.41815345867972775
+					],
+					"Time": [
+						16,
+						12,
+						24,
+						670
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.44911939558353453,
+						0.1672613834718911
+					],
+					"Time": [
+						16,
+						13,
+						3,
+						237
+					]
+				},
+				{
+					"Player": "Panda He",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.6045838017470657,
+						0.20740411550514498
+					],
+					"Time": [
+						16,
+						14,
+						43,
+						990
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5354885101188296,
+						0.1655887696371722
+					],
+					"Time": [
+						16,
+						15,
+						59,
+						381
+					]
+				},
+				{
+					"Player": "Panda He",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.5370588576558349,
+						0.22078502618289625
+					],
+					"Time": [
+						16,
+						16,
+						31,
+						281
+					]
+				},
+				{
+					"Player": "Panda He",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.9265050468331656,
+						0.15053524512470198
+					],
+					"Time": [
+						16,
+						16,
+						53,
+						579
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.4318455726764755,
+						0.18566013565379913
+					],
+					"Time": [
+						16,
+						18,
+						53,
+						957
+					]
+				},
+				{
+					"Player": "Henry Wei",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.6862418736713447,
+						0.41648084484500886
+					],
+					"Time": [
+						16,
+						20,
+						41,
+						18
+					]
+				},
+				{
+					"Player": "",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.6124355394320925,
+						0.5703613176391487
+					],
+					"Time": [
+						16,
+						20,
+						53,
+						136
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.6564052704682427,
+						0.5720339314738676
+					],
+					"Time": [
+						16,
+						21,
+						24,
+						853
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.10521328497935949,
+						0.2726360550591825
+					],
+					"Time": [
+						16,
+						24,
+						39,
+						785
+					]
+				},
+				{
+					"Player": "Steven Sun",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5621844182479209,
+						0.2107493431745828
+					],
+					"Time": [
+						16,
+						25,
+						17,
+						379
+					]
+				},
+				{
+					"Player": "Steven Sun",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.6281390148021462,
+						0.1655887696371722
+					],
+					"Time": [
+						16,
+						25,
+						44,
+						532
+					]
+				},
+				{
+					"Player": "Panda He",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.5496216379518779,
+						0.1354817206122318
+					],
+					"Time": [
+						16,
+						27,
+						58,
+						60
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.44911939558353453,
+						0.14049956211638853
+					],
+					"Time": [
+						16,
+						28,
+						1,
+						175
+					]
+				},
+				{
+					"Player": "Steven Sun",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.3784537564182931,
+						0.5619982484655541
+					],
+					"Time": [
+						16,
+						28,
+						33,
+						635
+					]
+				},
+				{
+					"Player": "Steven Sun",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.05182146872117706,
+						0.12377342376919942
+					],
+					"Time": [
+						16,
+						29,
+						1,
+						722
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.4444083529725184,
+						0.13715433444695072
+					],
+					"Time": [
+						16,
+						29,
+						25,
+						973
+					]
+				},
+				{
+					"Player": "Henry Wei",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.49780016923070086,
+						0.4097903895061332
+					],
+					"Time": [
+						16,
+						30,
+						22,
+						947
+					]
+				},
+				{
+					"Player": "Henry Wei",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5009408643047116,
+						0.413135617175571
+					],
+					"Time": [
+						16,
+						30,
+						37,
+						935
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5825989362289906,
+						0.1354817206122318
+					],
+					"Time": [
+						16,
+						31,
+						44,
+						792
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.4035793170103789,
+						0.2542373028772745
+					],
+					"Time": [
+						16,
+						32,
+						7,
+						869
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.07851737685026827,
+						0.18900536332323695
+					],
+					"Time": [
+						16,
+						32,
+						43,
+						490
+					]
+				},
+				{
+					"Player": "Jamie Z",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5480512904148725,
+						0.17562445264548565
+					],
+					"Time": [
+						16,
+						33,
+						56,
+						738
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.0910801571463112,
+						0.23918377836480428
+					],
+					"Time": [
+						16,
+						35,
+						27,
+						550
+					]
+				},
+				{
+					"Player": "Roy Pan",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.8950980960930583,
+						0.2876895795716527
+					],
+					"Time": [
+						16,
+						36,
+						11,
+						416
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.502511211841717,
+						0.41480823101028996
+					],
+					"Time": [
+						16,
+						36,
+						36,
+						690
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.5056519069157277,
+						0.413135617175571
+					],
+					"Time": [
+						16,
+						36,
+						58,
+						773
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5276367724338028,
+						0.1655887696371722
+					],
+					"Time": [
+						16,
+						37,
+						22,
+						276
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5668954608589369,
+						0.13715433444695072
+					],
+					"Time": [
+						16,
+						42,
+						29,
+						900
+					]
+				},
+				{
+					"Player": "Steven Sun",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.43027522513947014,
+						0.1672613834718911
+					],
+					"Time": [
+						16,
+						43,
+						3,
+						221
+					]
+				},
+				{
+					"Player": "Panda He",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.4318455726764755,
+						0.1488626312899831
+					],
+					"Time": [
+						16,
+						43,
+						47,
+						882
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.5574733756369047,
+						0.1338091067775129
+					],
+					"Time": [
+						16,
+						45,
+						1,
+						473
+					]
+				},
+				{
+					"Player": "Roy Pan",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.0769470293132629,
+						0.17060661114132894
+					],
+					"Time": [
+						16,
+						45,
+						40,
+						70
+					]
+				},
+				{
+					"Player": "Steven Sun",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.47424495617562035,
+						0.21743979851345843
+					],
+					"Time": [
+						16,
+						45,
+						50,
+						600
+					]
+				},
+				{
+					"Player": "Hongyang Zhou",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.5182146872117706,
+						0.5854148421516189
+					],
+					"Time": [
+						16,
+						46,
+						57,
+						279
+					]
+				},
+				{
+					"Player": "Rus Hu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.4475490480465292,
+						0.19067797715795587
+					],
+					"Time": [
+						16,
+						47,
+						51,
+						108
+					]
+				},
+				{
+					"Player": "Jamie Z",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.4412676578985077,
+						0.1388269482816696
+					],
+					"Time": [
+						16,
+						48,
+						35,
+						726
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.0722359867022468,
+						0.14384478978582635
+					],
+					"Time": [
+						16,
+						50,
+						11,
+						15
+					]
+				},
+				{
+					"Player": "Hongyang Zhou",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5920210214510228,
+						0.1522078589594209
+					],
+					"Time": [
+						16,
+						50,
+						40,
+						314
+					]
+				},
+				{
+					"Player": "Henry Wei",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5527623330258886,
+						0.5636708623002731
+					],
+					"Time": [
+						16,
+						52,
+						35,
+						562
+					]
+				},
+				{
+					"Player": "Henry Wei",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.26852942882791747,
+						0.1839875218190802
+					],
+					"Time": [
+						16,
+						53,
+						22,
+						332
+					]
+				},
+				{
+					"Player": "Bryan Yao",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.4067200120843896,
+						0.17729706648020457
+					],
+					"Time": [
+						16,
+						54,
+						22,
+						762
+					]
+				},
+				{
+					"Player": "Ben Song",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.13976093079347754,
+						0.2107493431745828
+					],
+					"Time": [
+						16,
+						54,
+						56,
+						331
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.5229257298227867,
+						0.5753791591433054
+					],
+					"Time": [
+						16,
+						55,
+						27,
+						711
+					]
+				},
+				{
+					"Player": "Bryan Yao",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5935913689880281,
+						0.41480823101028996
+					],
+					"Time": [
+						16,
+						56,
+						0,
+						50
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.3721723662702716,
+						0.19904104633155043
+					],
+					"Time": [
+						16,
+						59,
+						26,
+						709
+					]
+				},
+				{
+					"Player": "Bryan Yao",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.43969731036150234,
+						0.23082070919120973
+					],
+					"Time": [
+						16,
+						59,
+						59,
+						625
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.7741813357436451,
+						0.17227922497604783
+					],
+					"Time": [
+						17,
+						0,
+						33,
+						901
+					]
+				},
+				{
+					"Player": "Henry Wei",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.6548349229312374,
+						0.5385816547794894
+					],
+					"Time": [
+						17,
+						1,
+						12,
+						610
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.10207258990534876,
+						0.16224354196773438
+					],
+					"Time": [
+						17,
+						2,
+						18,
+						525
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.9186533091481388,
+						0.13046387910807505
+					],
+					"Time": [
+						17,
+						3,
+						6,
+						182
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.8919574010190475,
+						0.2876895795716527
+					],
+					"Time": [
+						17,
+						4,
+						26,
+						85
+					]
+				},
+				{
+					"Player": "Bryan Yao",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.34861715321519116,
+						0.16057092813301546
+					],
+					"Time": [
+						17,
+						4,
+						57,
+						636
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.24811491084684775,
+						0.2676182135550258
+					],
+					"Time": [
+						17,
+						5,
+						42,
+						942
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.5559030280998993,
+						0.14719001745526417
+					],
+					"Time": [
+						17,
+						6,
+						32,
+						481
+					]
+				},
+				{
+					"Player": "Bryan Yao",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.519785034748776,
+						0.4683318737212951
+					],
+					"Time": [
+						17,
+						7,
+						53,
+						890
+					]
+				},
+				{
+					"Player": "Eddy Wu",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Missed",
+					"Location": [
+						0.17116788153358484,
+						0.14551740362054527
+					],
+					"Time": [
+						17,
+						9,
+						11,
+						973
+					]
+				},
+				{
+					"Player": "Roy Pan",
+					"Pressure": "Scrimmage",
+					"Action": "Shot Made",
+					"Location": [
+						0.8134400241687793,
+						0.2960526487452473
+					],
+					"Time": [
+						17,
+						9,
+						41,
+						632
+					]
+				}
+			]
+		},
+		{
+			"Date": "2018-10-6",
+			"Data": []
+		}
+	]
+}
